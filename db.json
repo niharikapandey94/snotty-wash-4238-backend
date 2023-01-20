@@ -143,64 +143,8 @@
           "Classic Hand Toast": null
         }
       }
-    },
-    {
-      "size": {
-        "Regular": {
-          "jjjjjj": "8888"
-        }
-      },
-      "id": 103
-    },
-    {
-      "id": 104,
-      "category": "bestseller",
-      "product": "Farmhouse1",
-      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
-      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-      "size": {
-        "Regular": {
-          "New Hand Tossed": "800"
-        }
-      }
-    },
-    {
-      "id": 105,
-      "category": "bestseller",
-      "product": "Farmhouse1",
-      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
-      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-      "size": {
-        "Regular": {
-          "New Hand Tossed": "800"
-        }
-      }
-    },
-    {
-      "id": 106,
-      "category": "bestseller",
-      "product": "Farmhouse13",
-      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
-      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-      "size": {
-        "Regular": {
-          "New Hand Tossed": "9000"
-        }
-      }
-    },
-    {
-      "id": 107,
-      "category": "bestseller",
-      "product": "Farmhouse13",
-      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
-      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-      "size": {
-        "Regular": {
-          "New Hand Tossed": "9000"
-        }
-      }
     }
-  ],
+     ],
   "newlaunches": [
     {
       "id": 10,
@@ -321,26 +265,8 @@
       "size": {
         "price": 139
       }
-    },
-    {
-      "id": 103,
-      "category": "newlaunches",
-      "product": "Farmhouse1",
-      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
-      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-      "size": {
-        "Regular": {
-          "New Hand Tossed": "399"
-        },
-        "Medium": {
-          "hhhh": "800"
-        },
-        "Large": {
-          "kkkkk": "900"
-        }
-      }
     }
-  ],
+     ],
   "parathapizza": [
     {
       "id": 19,
