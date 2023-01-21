@@ -1311,5 +1311,14 @@
         "Price": 85
       }
     }
-  ]
+  ],
+  "users":[
+    {
+ "username":"niharika",
+ "password":"25674108",
+ "email":"niharikapandeyabc@gmail.com"
+    }]
+    
 }
+
+
